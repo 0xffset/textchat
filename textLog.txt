@@ -1,0 +1,44 @@
+20.01.2020 08:35:47, asd(9Dg2aBFMrBjTToWnAAAB) : ads
+20.01.2020 09:00:46, asd(cmPb-6v7B9eVlUyPAAAA) : asdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhaskasdasdasdasdkjhaskjdhask
+20.01.2020 09:01:38, asd(3c1Wd9-l8WvCWAhtAAAG) : asdasd
+20.01.2020 09:01:40, asd(3c1Wd9-l8WvCWAhtAAAG) : asadasdasd
+20.01.2020 09:01:41, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:41, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:41, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:41, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:42, asd(3c1Wd9-l8WvCWAhtAAAG) : as
+20.01.2020 09:01:44, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:44, asd(3c1Wd9-l8WvCWAhtAAAG) : asd
+20.01.2020 09:01:44, asd(3c1Wd9-l8WvCWAhtAAAG) : as
+20.01.2020 09:01:44, asd(3c1Wd9-l8WvCWAhtAAAG) : das
+20.01.2020 09:01:44, asd(3c1Wd9-l8WvCWAhtAAAG) : da
+20.01.2020 09:01:45, asd(3c1Wd9-l8WvCWAhtAAAG) : sd
+20.01.2020 11:27:38, Admin(29cWRgr2t9krGbDWAAAC) : yeet
+20.01.2020 11:27:50, Admin(29cWRgr2t9krGbDWAAAC) : yeet
+20.01.2020 11:27:53, Admin(29cWRgr2t9krGbDWAAAC) : Ok
+20.01.2020 11:42:25, H4cker(CHUL2xrgP40zenNbAAAC) : Test
+20.01.2020 12:10:28, Admin(1XEaeGB7Pw87r1A6AAAC) : Nerd
+20.01.2020 12:14:44, tets(A2zIFuH02uOyskk4AAAE) : asd
+20.01.2020 12:15:02, jhsgdhfasjfa(XBvKg6fflEirdvEsAAAF) : asdas
+20.01.2020 12:18:11, tets(ESwaD6kyJVbKxCPzAAAG) : yeet
+20.01.2020 12:20:26, tets(ESwaD6kyJVbKxCPzAAAG) : " </p> <script>alert("test");</script>
+20.01.2020 12:20:56, tets(ESwaD6kyJVbKxCPzAAAG) : "; DELETE FROM nodetest.messages
+20.01.2020 12:23:20, tets(ESwaD6kyJVbKxCPzAAAG) : ', '${time}', '${color}'); DELETE FROM nodetest.messages
+20.01.2020 12:24:49, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color');  DELETE FROM nodetest.messages
+20.01.2020 12:26:40, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages;
+20.01.2020 12:27:16, tets(ESwaD6kyJVbKxCPzAAAG) : a
+20.01.2020 12:27:17, tets(ESwaD6kyJVbKxCPzAAAG) : b
+20.01.2020 12:27:18, tets(ESwaD6kyJVbKxCPzAAAG) : c
+20.01.2020 12:28:37, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages WHERE user='tets';
+20.01.2020 12:30:01, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages; INSERT INTO nodetest.messages (user, message, zeit, farbe) VALUES ('${name}', '${message}', '${time}', '${color}')
+20.01.2020 12:33:26, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages; INSERT INTO nodetest.messages (user, message, zeit, farbe) VALUES ('${name}', 'yeet'${message}', '${time}', '${color}')
+20.01.2020 12:33:47, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages; INSERT INTO nodetest.messages (user, message, zeit, farbe) VALUES ('${name}', 'yeet
+20.01.2020 12:34:40, tets(ESwaD6kyJVbKxCPzAAAG) : yeet', 'time', 'color'); DELETE FROM nodetest.messages; INSERT INTO nodetest.messages (user, message, zeit, farbe) VALUES ('${name}', 'yeet', 
+22.01.2020 18:39:26, Admin(8xCyUki8IUjwBLmOAAAA) : asdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsdasdasdasdasdkfhajshjasgdjagsd
+22.01.2020 18:41:10, Admin(8xCyUki8IUjwBLmOAAAA) : @Admin
+22.01.2020 18:42:33, Admin(Uf4m_tI2035hS-gkAAAB) :    
+22.01.2020 18:42:34, Admin(Uf4m_tI2035hS-gkAAAB) :  
+22.01.2020 18:42:35, Admin(Uf4m_tI2035hS-gkAAAB) :  
+22.01.2020 18:42:35, Admin(Uf4m_tI2035hS-gkAAAB) :  
+22.01.2020 18:42:35, Admin(Uf4m_tI2035hS-gkAAAB) :  
+22.01.2020 18:42:35, Admin(Uf4m_tI2035hS-gkAAAB) :  

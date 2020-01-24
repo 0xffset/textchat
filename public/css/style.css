@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    background-color: rgb(51, 51, 51);
+    font-family: sans-serif;
+}
+
+.input {
+    bottom: 1%;
+    height: 5vh;
+    width: 70%;
+    border: 0;
+    font-size: large;
+    position: fixed;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    
+}
+.message {
+
+    color:rgb(199, 199, 199);
+    margin: 5px;
+    padding: 5px;
+    word-wrap: break-word;
+}
+.typing {
+    position: fixed;
+    top: 98vh;
+    width: 100%;
+    margin: 0;  
+    padding: 2px;
+    height: 2vh;
+    color:white;
+    background-color: rgba(51, 51, 51);
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.name {
+    margin: 2px;
+    padding: 0;
+    font-size: medium;
+    font-weight: bolder;
+    text-shadow: 2px 2px 15px rgb(0, 0, 0);
+}
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.nachricht {
+    margin: 0;
+    padding: 0;
+}
+
+:focus {
+    outline: none;
+}
+
+.spaceHolder {
+    top: 93vh;
+    height: 7vh;
+}
+
+.userOnline {
+    display: table-cell;
+    color:white; 
+    position:fixed;
+    top: 1vh;   
+    overflow-y: scroll;
+    background-color: rgb(48, 48, 48);
+}
+
+.displayUsers{
+    display:block;
+    padding:14px;
+    margin: 2px;
+}
+.displayUsers:hover{
+    display:block;
+    padding:14px;
+    margin: 2px;
+    background-color: rgb(45, 45, 45);
+    user-select: none;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }

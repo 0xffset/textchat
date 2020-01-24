@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login to Chatroom</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.dev.js"></script>
+    <script
+        src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+        crossorigin="anonymous"></script>
+    <link href="/css/loginStyle.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="buttonContainer">
+        <form action="" method="post" id="form" style="height: 80vh;">
+            <h2 style="color:white;">Login or Register</h2 s>
+            <div id="userpass">
+                <h4>Username:</h5>
+                <input type="text" placeholder="Username" name="username" class="inputField" required><br>
+                <input type="color" id="uColor" value="#222222">
+                <h4>Password:</h4>
+                <input type="password" placeholder="Password" name="password" class="inputField ent" required>
+                <h4>Confirm password:</h4>
+                <input type="password" placeholder="Password" name="passwordConfirm" class="inputField ent" required>
+                <h4>Username color:</h4>
+                <br><br>
+                <button type="button" class="submitBtn" id="but">Register</button>
+                <p style="color: red;">Username already exists</p>
+                <!--https://www.bestcssbuttongenerator.com/#/6-->
+            </div>
+        </form>
+    </div>
+    <script>
+        $("#but").click(function() {
+            if ($("input[name='password']").val() != $("input[name='passwordConfirm']").val())
+                alert("Passwords don't match!");
+            else {
+                $.ajax({
+                    type: "POST",
+                    url: "/register",
+                    data: {
+                        username : $("input[name='username']").val(),
+                        password : $("input[name='password']").val(),
+                        color : $("#uColor").val()
+                    },
+                    success : function(data) {
+                        if(Object.keys(data).length !== 1) {
+                            sessionStorage.setItem("username", data[Object.keys(data)[0]]);
+                            sessionStorage.setItem("color", data[Object.keys(data)[1]]);
+                            window.location.href = data[Object.keys(data)[2]];
+                        } else
+                            window.location.href = data[Object.keys(data)[0]];
+                    }
+                });
+            }
+        });
+        $(function() {
+            const inputs = document.getElementsByClassName("ent");
+            Array.from(inputs).forEach((input) => {
+                input.addEventListener("keyup", function(event) {
+                    if (event.keyCode === 13) {
+                        event.preventDefault();
+                        $("#but").click();
+                    }
+                });
+            });
+        });
+    </script>
+</body>
